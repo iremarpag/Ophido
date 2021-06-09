@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\erenb\source\repos\Project\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\objects.h(66,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(79,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(104,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(126,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\main.cpp(30,41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\main.cpp(35,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\main.cpp(36,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\main.cpp(165,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(166,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(169,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(170,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(203,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(204,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(207,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(208,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(260,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(261,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(281,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(282,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\main.cpp(406,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(407,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(413,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(416,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(418,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(421,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(424,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(404,8): warning C4101: 's': unreferenced local variable
+C:\Users\erenb\source\repos\Project\main.cpp(441,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(442,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(447,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(450,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(452,7): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(455,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(458,8): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\erenb\source\repos\Project\main.cpp(439,8): warning C4101: 's': unreferenced local variable
+C:\Users\erenb\source\repos\Project\main.cpp(472,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project.vcxproj -> C:\Users\erenb\source\repos\Project\Debug\Project.exe
