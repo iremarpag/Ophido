@@ -1,0 +1,4 @@
+C:\Users\erenb\source\repos\Project\Debug\Project.exe
+C:\Users\erenb\source\repos\Project\Debug\Project.pdb
+C:\Users\erenb\source\repos\Project - Kopya\Debug\Project.exe
+C:\Users\erenb\source\repos\Project - Kopya\Debug\Project.pdb

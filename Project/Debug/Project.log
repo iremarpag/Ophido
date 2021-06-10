@@ -1,0 +1,56 @@
+﻿  cube.cpp
+C:\Users\erenb\source\repos\Project\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\objects.h(66,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(79,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(105,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(127,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\cube.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erenb\source\repos\Project\cube.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erenb\source\repos\Project\cube.cpp(117,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\cube.cpp(121,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\cube.cpp(125,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\cube.cpp(129,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\cube.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+  sphere.cpp
+C:\Users\erenb\source\repos\Project\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\objects.h(66,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(79,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(105,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(127,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\sphere.cpp(55,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\sphere.cpp(56,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\sphere.cpp(57,42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\sphere.cpp(68,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\sphere.cpp(69,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\erenb\source\repos\Project\sphere.cpp(76,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\sphere.cpp(77,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\sphere.cpp(78,29): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  wall.cpp
+C:\Users\erenb\source\repos\Project\Angel.h(63,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\erenb\source\repos\Project\mat.h(707,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(708,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(709,18): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(730,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(732,24): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(735,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\mat.h(752,30): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\erenb\source\repos\Project\objects.h(66,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(79,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(105,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\erenb\source\repos\Project\objects.h(127,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  Project.vcxproj -> C:\Users\erenb\source\repos\Project\Debug\Project.exe
